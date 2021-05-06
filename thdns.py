@@ -26,7 +26,7 @@ logip='/opt/thdns/thdns.ip'
 # COSTANTI
 #######################
 
-version='0.2'
+version='0.3'
 storedip=None
 test=True
 ip=''
