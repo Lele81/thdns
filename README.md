@@ -22,7 +22,7 @@ python thdns.py -g
 ```
 
 Please note that code works only on python =2.7 (some changes will be needed if you
-want to run python >=3
+want to run on python >=3
 
 Links
 ---
